@@ -6,3 +6,5 @@ scipy
 gensim
 scikit-learn
 matplotlib
+notebook
+python-dotenv
