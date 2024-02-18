@@ -1,0 +1,14 @@
+# Python
+.env
+__pycache__/
+venv/
+
+# Data files
+*.json
+*.csv
+
+# Jupyter notebook 
+.ipynb_checkpoints
+
+# Pickle
+*.pkl
