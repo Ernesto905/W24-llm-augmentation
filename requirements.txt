@@ -13,3 +13,4 @@ pypdf
 llama-index
 python-dotenv
 langchain-openai
+rank_bm25
