@@ -14,3 +14,4 @@ llama-index
 python-dotenv
 langchain-openai
 rank_bm25
+numexpr
