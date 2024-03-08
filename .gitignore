@@ -6,6 +6,7 @@ venv/
 # Data files
 *.json
 *.csv
+philosophy_docs/
 
 # Jupyter notebook 
 .ipynb_checkpoints

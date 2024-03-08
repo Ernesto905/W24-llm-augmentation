@@ -16,3 +16,4 @@ langchain-openai
 rank_bm25
 numexpr
 streamlit
+unstructured
