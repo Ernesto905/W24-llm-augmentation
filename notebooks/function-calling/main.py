@@ -41,8 +41,9 @@ messages = [
 if location and activity:
     response = weather.get_completion(messages, tools=tools)
     parsed_response = weather.parse_response(response, msg, tools)
-    st.text(parsed_response)
-
+    # st.text(parsed_response)
+    st.text_area(label="response", value=parsed_response, height=300)
+    
 
 
     if st.button('Show Illustration'):
